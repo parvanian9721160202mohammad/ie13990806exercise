@@ -1,0 +1,16 @@
+.all_experince li{
+    width: 500px;
+    height: auto;
+    border-radius: 20px;
+   padding: 50px;   
+   margin: 20px;
+   background-color: rgb(69, 150, 255);
+}
+.all_experince li li{
+    width: 300px;
+    height: auto;
+    border-radius: 20px;
+   padding: 50px;   
+   margin: 20px;
+   background-color: rgb(146, 146, 146);
+}
