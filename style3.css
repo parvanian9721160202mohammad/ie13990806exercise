@@ -25,3 +25,6 @@
 .all_experince li li p {
     text-align: justify;
 }
+li{
+    list-style: none;
+}
